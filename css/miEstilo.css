@@ -7,4 +7,13 @@ img {
 .box {
     display: flex;
     align-items:center;
- }
+}
+img.grande{
+    width: 100%;
+    height: 55vw;
+}
+img.mediana{
+    width: 90%;
+    height: 25vw;
+    line-height:0;
+}
