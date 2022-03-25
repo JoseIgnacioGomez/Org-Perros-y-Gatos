@@ -1,0 +1,10 @@
+body{
+    background-color: #90dbf8;
+}
+img {
+    margin-bottom: 100px;
+}
+.box {
+    display: flex;
+    align-items:center;
+ }
