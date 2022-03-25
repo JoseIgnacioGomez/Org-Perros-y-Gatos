@@ -17,3 +17,8 @@ img.mediana{
     height: 25vw;
     line-height:0;
 }
+.nav-enlace{
+    background: salmon;
+    color: #fff;
+    padding: 10px 30px;
+}
